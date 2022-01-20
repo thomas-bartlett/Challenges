@@ -20,12 +20,9 @@ int main()
     vector<int> answer = {5, 1, 2, 3, 4};
 
     if(rotLeft(input,rotations) == answer)
-    {
         cout << "Correct!" << endl;
-    }
     else
-    {
         cout << "Incorrect." << endl;
-    }
+
     return 0;
 }
