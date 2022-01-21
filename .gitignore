@@ -145,3 +145,8 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+
+##Other
+.vscode/*
+.vscode
+*.dSYM
